@@ -1,0 +1,10 @@
+{
+  "Germany": {
+    "cookie_consent_required": true,
+    "data_retention_max_months": 6
+  },
+  "France": {
+    "cookie_consent_required": true,
+    "data_retention_max_months": 12
+  }
+}
